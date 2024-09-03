@@ -1,0 +1,38 @@
+C:\Users\USER\source\repos\Audio Y video\Audio Y video\bin\Debug\Audio Y video.exe.config
+C:\Users\USER\source\repos\Audio Y video\Audio Y video\bin\Debug\Audio Y video.exe
+C:\Users\USER\source\repos\Audio Y video\Audio Y video\bin\Debug\Audio Y video.pdb
+C:\Users\USER\source\repos\Audio Y video\Audio Y video\bin\Debug\AForge.dll
+C:\Users\USER\source\repos\Audio Y video\Audio Y video\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\USER\source\repos\Audio Y video\Audio Y video\bin\Debug\AForge.Video.dll
+C:\Users\USER\source\repos\Audio Y video\Audio Y video\bin\Debug\AForge.xml
+C:\Users\USER\source\repos\Audio Y video\Audio Y video\bin\Debug\AForge.Video.xml
+C:\Users\USER\source\repos\Audio Y video\Audio Y video\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\USER\source\repos\Audio Y video\Audio Y video\obj\Debug\Audio Y video.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Audio Y video\Audio Y video\obj\Debug\Audio Y video.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\Audio Y video\Audio Y video\obj\Debug\Audio_Y_video.Form1.resources
+C:\Users\USER\source\repos\Audio Y video\Audio Y video\obj\Debug\Audio_Y_video.Properties.Resources.resources
+C:\Users\USER\source\repos\Audio Y video\Audio Y video\obj\Debug\Audio Y video.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Audio Y video\Audio Y video\obj\Debug\Audio Y video.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Audio Y video\Audio Y video\obj\Debug\Audio Y video.csproj.CopyComplete
+C:\Users\USER\source\repos\Audio Y video\Audio Y video\obj\Debug\Audio Y video.exe
+C:\Users\USER\source\repos\Audio Y video\Audio Y video\obj\Debug\Audio Y video.pdb
+C:\Users\USER\source\repos\Audio Y video\Audio Y video\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\USER\source\repos\Audio Y video\Audio Y video\bin\Debug\NAudio.Asio.dll
+C:\Users\USER\source\repos\Audio Y video\Audio Y video\bin\Debug\NAudio.Core.dll
+C:\Users\USER\source\repos\Audio Y video\Audio Y video\bin\Debug\NAudio.dll
+C:\Users\USER\source\repos\Audio Y video\Audio Y video\bin\Debug\NAudio.Midi.dll
+C:\Users\USER\source\repos\Audio Y video\Audio Y video\bin\Debug\NAudio.Wasapi.dll
+C:\Users\USER\source\repos\Audio Y video\Audio Y video\bin\Debug\NAudio.WinForms.dll
+C:\Users\USER\source\repos\Audio Y video\Audio Y video\bin\Debug\NAudio.WinMM.dll
+C:\Users\USER\source\repos\Audio Y video\Audio Y video\bin\Debug\System.Security.AccessControl.dll
+C:\Users\USER\source\repos\Audio Y video\Audio Y video\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\USER\source\repos\Audio Y video\Audio Y video\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\USER\source\repos\Audio Y video\Audio Y video\bin\Debug\NAudio.xml
+C:\Users\USER\source\repos\Audio Y video\Audio Y video\bin\Debug\NAudio.Asio.xml
+C:\Users\USER\source\repos\Audio Y video\Audio Y video\bin\Debug\NAudio.Core.xml
+C:\Users\USER\source\repos\Audio Y video\Audio Y video\bin\Debug\NAudio.Midi.xml
+C:\Users\USER\source\repos\Audio Y video\Audio Y video\bin\Debug\NAudio.Wasapi.xml
+C:\Users\USER\source\repos\Audio Y video\Audio Y video\bin\Debug\NAudio.WinForms.xml
+C:\Users\USER\source\repos\Audio Y video\Audio Y video\bin\Debug\NAudio.WinMM.xml
+C:\Users\USER\source\repos\Audio Y video\Audio Y video\bin\Debug\System.Security.AccessControl.xml
+C:\Users\USER\source\repos\Audio Y video\Audio Y video\bin\Debug\System.Security.Principal.Windows.xml
